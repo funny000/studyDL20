@@ -3,7 +3,7 @@ study deepLearning
 
 deep learning
 
-<<<<<<< HEAD
+
 
 
 自然语言处理
@@ -12,4 +12,3 @@ deep learning
 
 pytorch
 
->>>>>>> feature1
